@@ -1,3 +1,7 @@
+// Number Guessing Game: User guesses a randomly generated number within a 
+// range. This game generates a random number, and the player attempts to guess it within 
+// a set range (e.g., 1–100). After each guess, the program tells the player if their guess is 
+// too high, too low, or correct. 
 import java.util.Random; 
 import java.util.Scanner; 
  
